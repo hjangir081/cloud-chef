@@ -1,0 +1,35 @@
+{
+    "name": "code_chef",
+    "short_name": "code_chef",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "Cloud Chef is a premium food delivery app designed exclusively for cloud kitchens. It connects you to a variety of top-notch virtual kitchens, offering freshly prepared, gourmet meals delivered straight to your door. With a focus on quality, speed, and convenience, Cloud Chef lets you explore diverse cuisines crafted by talented chefs, all from the comfort of your home. Discover delicious food, optimized for delivery, with just a few taps!",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
